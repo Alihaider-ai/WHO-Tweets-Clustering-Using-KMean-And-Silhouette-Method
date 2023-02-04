@@ -1,4 +1,4 @@
-3 WHO Tweets Clustering Using KMeans And Silhouette Method
+# WHO Tweets Clustering Using KMeans And Silhouette Method
 This project is focused on clustering tweets related to COVID-19 from the World Health Organization's account. The goal is to group similar tweets together and analyze their content to better understand the overall message being communicated by WHO on this topic.
 
 The code uses the KMeans clustering algorithm and Silhouette method to evaluate the performance of the clusters.
